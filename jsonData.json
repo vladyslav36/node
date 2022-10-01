@@ -1,8 +1,0 @@
-{
-  "customers": [
-    { "id": "1","name" : "John", "age": 32, "email": "john@gmail.com" },
-    {"id" : "2","name" : "Jane", "age": 35, "email": "janen@gmail.com" },
-    {"id" : "3","name" : "Sara", "age": 45,"email" : "sara@gmail.com" },
-    {"id" : "4","name" : "Alex", "age": 42, "email": "alexn@gmail.com" }
-  ]
-}
